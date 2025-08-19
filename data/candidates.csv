@@ -1,0 +1,4 @@
+id,name,email,branch,cgpa,phone,resumePath
+C1,Aman Sharma,aman.sharma@example.com,Computer Science,8.6,+91-9000000001,../sample_resumes/aman_sharma.txt
+C2,Riya Patel,riya.patel@example.com,Electronics,8.2, +91-9000000002,../sample_resumes/riya_patel.txt
+C3,Vikram Singh,vikram.singh@example.com,IT,9.0,+91-9000000003,../sample_resumes/vikram_singh.txt
