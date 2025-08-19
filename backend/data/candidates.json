@@ -1,0 +1,29 @@
+[
+  {
+    "id": "C1",
+    "name": "Aman Sharma",
+    "email": "aman.sharma@example.com",
+    "branch": "Computer Science",
+    "cgpa": "8.6",
+    "phone": "+91-9000000001",
+    "resumePath": "../sample_resumes/aman_sharma.txt"
+  },
+  {
+    "id": "C2",
+    "name": "Riya Patel",
+    "email": "riya.patel@example.com",
+    "branch": "Electronics",
+    "cgpa": "8.2",
+    "phone": " +91-9000000002",
+    "resumePath": "../sample_resumes/riya_patel.txt"
+  },
+  {
+    "id": "C3",
+    "name": "Vikram Singh",
+    "email": "vikram.singh@example.com",
+    "branch": "IT",
+    "cgpa": "9.0",
+    "phone": "+91-9000000003",
+    "resumePath": "../sample_resumes/vikram_singh.txt"
+  }
+]
